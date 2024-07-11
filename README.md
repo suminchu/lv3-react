@@ -3,7 +3,7 @@ LV3 Answer📄
 
 1. 모달을 구현할 때 `react-portal`을 사용 하셨나요? `react-portal`이 무엇이고 어떻게 작동하는지 설명해 주세요.
 
-    ➡️ react-portal을 사용했습니다. Portal은 부모 컴포넌트의 DOM 계층 구조 바깥에 있는 DOM 노드로 자식을 렌더링하는 방법입니다. import ReactDom from 'react-dom';을 한 다음 포탈을 씌우고 싶은 범위에 ReactDom.createportal을 하고 적용 범위 끝에는 ,document.body를 해주면 됩니다.
+    ➡️ react-portal을 사용했습니다. Portal은 부모 컴포넌트의 DOM 계층 구조 바깥에 있는 DOM 노드로 자식을 렌더링하는 방법입니다. 
   
   
 2. 다양한 형태의 버튼을 만들 때, 공통된 스타일 요소와 각각의 특별한 스타일 요소를 어떤 방법으로 styled-component에 적용하셨나요?
