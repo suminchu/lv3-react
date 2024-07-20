@@ -83,7 +83,7 @@ const OpenModalButton = styled.button`
     border-radius: 8px;
     background-color: rgb(85, 239, 196);
     color: rgb(0, 0, 0);
-    height: 40px;
+    height: 50px;
     width: 100px;
 `;
 
